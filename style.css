@@ -53,14 +53,14 @@ img {
   font-style: normal;
   font-display: swap;
   font-weight: 400;
-  src: url(fonts/SF-Pro-Display-Bold.woff2) format("woff2");
+  src: url(https://cdn.jsdelivr.net/gh/NetHir-De/xbox/fonts/SF-Pro-Display-Bold.woff2) format("woff2");
 }
 
 @font-face {
   font-family: 'SF-Pro-Display-Regular';
   font-style: normal;
   font-display: swap;
-  src: url(fonts/SF-Pro-Display-Regular.woff2) format("woff2");
+  src: url(https://cdn.jsdelivr.net/gh/NetHir-De/xbox/fonts/SF-Pro-Display-Regular.woff2) format("woff2");
 }
 
 /* FONTS CSS END'S HERE */
@@ -249,7 +249,7 @@ section {
   max-width: 1920px;
   margin: 0 auto;
   background: #fff;
-  background-image: url(images/banner.svg);
+  background-image: url(https://cdn.jsdelivr.net/gh/NetHir-De/xbox/images/banner.svg);
   background-size: auto;
   background-position: right;
   background-repeat: no-repeat;
@@ -776,7 +776,7 @@ section {
 }
 
 .banner_wrapper .product_wrapper .product_block .form_wrapper .form_block .form-group select {
-  background-image: url(https://youthful-minsky-4c6c73.netlify.app/images/dropdown.png);
+  background-image: url(https://cdn.jsdelivr.net/gh/NetHir-De/xbox/images/dropdown.png);
   background-repeat: no-repeat;
   background-position: right 20px center;
   color: #888888;
@@ -832,7 +832,7 @@ section {
 }
 
 .banner_wrapper .product_wrapper .product_block .form_wrapper .form_block .form-group .form-check .form-check-input:checked[type=checkbox] {
-  background-image: url(images/right.svg);
+  background-image: url(https://cdn.jsdelivr.net/gh/NetHir-De/xbox/images/right.svg);
   background-color: #fff;
   border: 1px solid rgba(47, 47, 47, 0.5);
 }
@@ -1263,7 +1263,7 @@ section {
   position: absolute;
   width: 300px;
   height: 2px;
-  background: url(images/br-line.svg);
+  background: url(https://cdn.jsdelivr.net/gh/NetHir-De/xbox/images/br-line.svg);
   background-size: cover;
   background-position: center;
   bottom: -10px;
